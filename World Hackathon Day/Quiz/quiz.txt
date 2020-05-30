@@ -1,0 +1,112 @@
+1.   Which planet appears to be yellowish?
+a. Asteroids        
+
+b. Mars        
+
+c. Uranus        
+
+d. Saturn
+answer-D
+
+2.   Which is the farthest planet from the sun?
+a. Neptune        
+
+b. Jupiter        
+
+c. Mercury        
+
+d. Earth
+answer-A
+
+3.   a group of stars are known as: 
+a. constellations        
+
+b. celestial bodies        
+
+c. asteroids        
+
+d. comet
+answer-a
+
+4.Which of the following part of the Sun is visible at the time of eclipse?
+A. Photosphere 
+
+B. Corona 
+
+C. Chromosphere 
+
+D. Core
+answer-b
+
+5.What is the time taken by the light of the Sun to reach on the Earth?
+A. 8 Minute
+
+B. 9 Minute
+
+C. 7 minute 20 Second
+
+D. 8 Minute 18 Second
+answer-d
+
+6.Which of the following planets in the Solar System takes shortest revolution?
+
+A. Neptune
+
+B. Mars
+
+C. Mercury
+
+D. Venus
+answer-c
+
+7.Arrange the planets according to the their revolution velocity
+
+I. Mars
+
+II. Jupiter
+
+III. Uranus
+
+IV. Earth
+
+Code:
+
+A. I, II, IV, II
+
+B. IV, I, II, III
+
+C. I, III, II, IV
+
+D. IV, III, II, I
+answer-c
+
+8.The majority of asteroids are found in a belt located between what two planets?
+a. Earth and Mars
+
+b. Mars and Venus
+
+c. Mars and Jupiter
+
+d. Jupiter and Saturn
+answer-c
+
+9.What keeps the Earth in its orbit?
+a. The Sun’s speed rotating
+
+b. The Sun’s gravitational pull
+
+c. The Earth’s spin direction
+
+d. The Earth’s location between other planets
+answer-b
+
+10.A year on Jupiter is 4,333 days long. A year on Mercury is 88 days long. Why do
+planets have different length years?
+a. A year is longer on larger planets
+
+b. Each planet has its own orbital period
+
+c. Some planets are larger than other planets
+
+d. Planets exert a gravitational force on other planets
+answer-b
